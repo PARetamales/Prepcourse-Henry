@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Este es un repositorio del modulo2 de Prepcourse de Henry
+Esta es una prueba de como guardar y clonar un archivo desde github
